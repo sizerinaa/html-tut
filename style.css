@@ -1,0 +1,19 @@
+.dashboard {
+    display: flex;
+    justify-content: flex-end;
+}
+
+h1 { 
+    align-self: center;
+}
+
+footer {
+    align-items: center;
+}
+
+* {
+    color: red;
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+}
