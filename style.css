@@ -119,17 +119,13 @@ DISCORD
     background-color: lightblue;
     padding-bottom: 24px;
     padding-top: 48px;
+    flex-direction: row;
 }
 
 .discord__img--wrapper {
     margin-left: 24px;
     display: flex;
 
-}
-
-.discord__descripteion--wrapper {
-    font-size: 20px;
-    padding: 0 24px;
 }
 
 /*
